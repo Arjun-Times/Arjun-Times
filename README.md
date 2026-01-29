@@ -7,22 +7,31 @@ Data Analytics & Operations Professional with 4+ years of experience transformin
 
 ### 🛠️ Technical & Professional Skills
 
-| **Programming & Data** | **Business Intelligence** | **Operations & Leadership** |
-| :--- | :--- | :--- |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black) | ![Project Management](https://img.shields.io/badge/Project_Management-FF5733?style=for-the-badge&logo=asana&logoColor=white) |
-| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white) | ![Team Leadership](https://img.shields.io/badge/Team_Leadership-28A745?style=for-the-badge&logo=google-groups&logoColor=white) |
-| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![Ops Management](https://img.shields.io/badge/Operations_Management-007BFF?style=for-the-badge&logo=processwire&logoColor=white) |
-| ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) | ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white) | ![Data Storytelling](https://img.shields.io/badge/Data_Storytelling-FD7E14?style=for-the-badge&logo=canvas&logoColor=white) |
+#### 💻 Programming & Databases
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=microsoftpowerbi&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Arjun-Times&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Arjun-Times&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-Times&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+#### 📊 Business Intelligence & Visualization
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)  
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white) 
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+#### 👔 Operations & Leadership
+![Project Management](https://img.shields.io/badge/Project_Management-FF5733?style=for-the-badge&logo=asana&logoColor=white) 
+![Team Leadership](https://img.shields.io/badge/Team_Leadership-28A745?style=for-the-badge&logo=google-groups&logoColor=white) 
+![Stakeholder Insights](https://img.shields.io/badge/Stakeholder_Insights-6F42C1?style=for-the-badge&logo=target&logoColor=white) 
+![Data Storytelling](https://img.shields.io/badge/Data_Storytelling-FD7E14?style=for-the-badge&logo=canvas&logoColor=white)
+
+### ✍️
+---
+<p align="center">
+  <i>"What gets measured gets managed."</i><br>
+  — <b>Peter Drucker</b>
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Arjun-Times&icon=1&color=8)](https://visitcount.itsvg.in)
