@@ -9,13 +9,13 @@ Data Analytics & Operations Professional with 4+ years of experience transformin
 
 #### 💻 Programming & Databases
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 #### 📊 Business Intelligence & Visualization
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black) 
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white) 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
@@ -26,7 +26,7 @@ Data Analytics & Operations Professional with 4+ years of experience transformin
 ![Stakeholder Insights](https://img.shields.io/badge/Stakeholder_Insights-6F42C1?style=for-the-badge&logo=target&logoColor=white) 
 ![Data Storytelling](https://img.shields.io/badge/Data_Storytelling-FD7E14?style=for-the-badge&logo=canvas&logoColor=white)
 
-### ✍️
+###
 ---
 <p align="center">
   <i>"What gets measured gets managed."</i><br>
