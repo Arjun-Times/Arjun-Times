@@ -5,7 +5,7 @@ Data Analytics & Operations Professional with 4+ years of experience transformin
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-b365a0184/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:talkwitharjun7533@gmail.com) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/Arjun-Times/)
 
-### 🛠️ Technical & Professional Skills
+### 🛠️ Professional & Technical Skills
 
 #### 💻 Programming & Databases
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
