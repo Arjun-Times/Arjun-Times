@@ -2,7 +2,7 @@
 Data Analytics & Operations Professional with 4+ years of experience transforming complex datasets into actionable business strategies. Proven expertise in SQL, Python automation, and BI tools (PowerBI/Looker), having boosted operational efficiency by 50% and managed data for global clients like Amazon and HUL. I specialize in end-to-end project ownership, from building automated ETL pipelines to delivering high-impact executive dashboards. Currently an Associate Manager, I bridge the gap between technical data integrity and cross-functional stakeholder goals to drive scalable growth.<br>
 
 
-## 🌐 Socials:
+## 🌐 Connect with me :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-b365a0184/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:talkwitharjun7533@gmail.com) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/Arjun-Times/)
 
 ### 🛠️ Professional & Technical Skills
