@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Analytics & Operations Professional with 4+ years of experience transforming complex datasets into actionable business strategies. Proven expertise in SQL, Python automation, and BI tools (PowerBI/Looker), having boosted operational efficiency by 50% and managed data for global clients like Amazon and HUL. I specialize in end-to-end project ownership, from building automated ETL pipelines to delivering high-impact executive dashboards. Currently an Associate Manager, I bridge the gap between technical data integrity and cross-functional stakeholder goals to drive scalable growth.<br>
+Analytics Professional with 4+ years of experience delivering SQL‑driven insights, advanced Excel & PowerPoint models, and visual analytics for commercial‑focused businesses. Skilled at synthesizing complex data into actionable recommendations for senior leadership, managing global stakeholder groups, and supporting real‑estate‑related decision‑making. Strong problem‑solving mindset, meticulous data validation, and proven ability to thrive in fast‑paced, ambiguous environments..<br>
 
 
 ## 🌐 Connect with me :
